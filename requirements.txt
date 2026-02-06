@@ -1,4 +1,4 @@
-multimodal-media-control/
-├── multimodal_control.py
-├── README.md
-├── requirements.txt
+opencv-python
+mediapipe
+pyautogui
+cvzone
